@@ -2,6 +2,7 @@
 	<div>
 		<img alt="Vue logo" src="./assets/logo.png" />
 		<HelloWorld msg="Welcome to Your Vue.js App" />
+		<div></div>
 	</div>
 </template>
 
@@ -18,7 +19,7 @@ export default {
 
 <style>
 #app {
-	font-family: Avenir, Helvetica, Arial, sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	text-align: center;
