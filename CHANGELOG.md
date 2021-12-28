@@ -1,3 +1,21 @@
+# [1.0.0](https://github.com/ouyangxiaoai/test/compare/v0.1.1...v1.0.0) (2021-12-28)
+
+
+### Bug Fixes
+
+* **eslint:** 屏蔽掉script-setup-uses-vars的报错 ([c131db6](https://github.com/ouyangxiaoai/test/commit/c131db65e6908af8c39099d3e7375df68def647f))
+
+
+
+# [0.2.0](https://github.com/ouyangxiaoai/test/compare/v0.1.1...v0.2.0) (2021-12-28)
+
+
+### Bug Fixes
+
+* **eslint:** 屏蔽掉script-setup-uses-vars的报错 ([c131db6](https://github.com/ouyangxiaoai/test/commit/c131db65e6908af8c39099d3e7375df68def647f))
+
+
+
 # 0.1.0 (2021-12-28)
 
 
